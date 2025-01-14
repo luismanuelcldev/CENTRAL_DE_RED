@@ -31,6 +31,14 @@ La topología lógica de la red incluye los siguientes elementos clave:
 
 ---
 
+![Topología de Red Empresarial](assets/TopologiaCisco-ProyectoFinal.png)
+
+## 4. Mapa Mental de la Central de Red Empresarial
+
+El Mapa Mental de la Central de Red Empresarial es una herramienta visual que documenta de manera detallada la infraestructura y configuración de la red corporativa desarrollada en este proyecto. Esta representación gráfica permite comprender de un vistazo la topología de la red, los servicios y dispositivos implementados, así como las interconexiones y flujos de información clave. 
+
+![Mapa Mental Empresarial](assets/CentraldeRed-ProyectoFinal.png)
+
 ## 3. 📜 Tabla de Direccionamiento
 
 La configuración de direccionamiento IP está detallada a continuación:
