@@ -102,7 +102,7 @@ Esta configuración asegura la comunicación entre los dispositivos de la red LA
 
 ## 6. 📄 Conclusión
 
-Este proyecto de central de red empresarial, diseñado en **Cisco Packet Tracer**, presenta una solución robusta y escalable que aborda las necesidades esenciales de conectividad y gestión de servicios en una organización. La documentación completa de la topología, configuración y direccionamiento IP proporciona una guía clara para la implementación, mantenimiento y expansión futura.
+Este proyecto,presenta una solución robusta y escalable que aborda las necesidades esenciales de conectividad y gestión de servicios en una organización. La documentación completa de la topología, configuración y direccionamiento IP proporciona una guía clara para la implementación, mantenimiento y expansión futura.
 
 ---
 
